@@ -1,5 +1,5 @@
 <div>
-   <img src="logo.png" alt="logo">
+   <img src="profile/logo.png" alt="logo">
    <div align="center">
       <br>
       <a href="https://hy-pe.ru">

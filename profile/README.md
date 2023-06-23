@@ -1,5 +1,5 @@
 <div>
-   <img src="profile/logo.png" alt="logo">
+   <img src="https://github.com/HyPE-Network/.github/blob/master/profile/logo.png" alt="logo">
    <div align="center">
       <br>
       <a href="https://hy-pe.ru">
@@ -23,7 +23,7 @@
 <br>
 <br>
 <div>
-   <img align="right" height="300" src="profile/img1.png" alt="" style="border: 1px solid black; ">
+   <img align="right" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img1.png" alt="" style="border: 1px solid black; ">
    <div align="center">
       <h2>👨‍🔧 Who we are?</h2>
       <p>We are one big family, the HyPE Network project development team.</p>
@@ -39,7 +39,7 @@
 <br>
 <br>
 <div>
-   <img align="left" height="300" src="profile/img2.jpg" alt="" style="border: 1px solid black; ">
+   <img align="left" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img2.jpg" alt="" style="border: 1px solid black; ">
    <div align="center">
       <h2>🪚 What are we doing?</h2>
       <p>We are developing various servers and services for the Minecraft Bedrock (and not only).</p>
@@ -56,7 +56,7 @@
 <br>
 <br>
 <div>
-   <img align="right" height="300" src="profile/img3.jpg" alt="" style="border: 1px solid black; ">
+   <img align="right" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img3.jpg" alt="" style="border: 1px solid black; ">
    <div align="center">
       <h2>✍️ What we use?</h2>
       <p>Some of the languages and tools that we use in our projects.</p>

@@ -20,29 +20,46 @@
       </div>
    </div>
 </div>
+<br>
+<br>
 <div>
-   <img align="right" height="200" src="profile/img1.png" alt="" style="border: 1px solid black; ">
-   <div align="left">
+   <img align="right" height="300" src="profile/img1.png" alt="" style="border: 1px solid black; ">
+   <div align="center">
       <h2>👨‍🔧 Who we are?</h2>
-      <p>We are one big family,<br>the HyPE Network project development team.</p>
+      <p>We are one big family, the HyPE Network project development team.</p>
       <p>Located in: <strong>🇷🇺 Russia</strong></p>
    </div>
 </div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div>
-   <img align="left" height="200" src="profile/img2.jpg" alt="" style="border: 1px solid black; ">
-   <div align="right">
+   <img align="left" height="300" src="profile/img2.jpg" alt="" style="border: 1px solid black; ">
+   <div align="center">
       <h2>🪚 What are we doing?</h2>
       <p>We are developing various servers and services for the Minecraft Bedrock (and not only).</p>
    </div>
 </div>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div>
-   <img align="right" height="200" src="profile/img3.jpg" alt="" style="border: 1px solid black; ">
-   <div align="left">
+   <img align="right" height="300" src="profile/img3.jpg" alt="" style="border: 1px solid black; ">
+   <div align="center">
       <h2>✍️ What we use?</h2>
-      <p>Some of languages and tools, that we used in our projects.</p>
+      <p>Some of the languages and tools that we use in our projects.</p>
       <p>
          <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
          <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -58,7 +75,4 @@
       </p>
    </div>
 </div>
-<br>
-<div align="center">
-   <h3>🐍 Bye-bye...</h3>
-</div>
+

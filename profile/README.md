@@ -21,7 +21,7 @@
    </div>
 </div>
 <div>
-   <img align="right" height="200" src="img1.png" alt="" style="border: 1px solid black; ">
+   <img align="right" height="200" src="profile/img1.png" alt="" style="border: 1px solid black; ">
    <div align="left">
       <h2>👨‍🔧 Who we are?</h2>
       <p>We are one big family,<br>the HyPE Network project development team.</p>
@@ -30,7 +30,7 @@
 </div>
 <br>
 <div>
-   <img align="left" height="200" src="img2.jpg" alt="" style="border: 1px solid black; ">
+   <img align="left" height="200" src="profile/img2.jpg" alt="" style="border: 1px solid black; ">
    <div align="right">
       <h2>🪚 What are we doing?</h2>
       <p>We are developing various servers and services for the Minecraft Bedrock (and not only).</p>
@@ -39,7 +39,7 @@
 <br>
 <br>
 <div>
-   <img align="right" height="200" src="img3.jpg" alt="" style="border: 1px solid black; ">
+   <img align="right" height="200" src="profile/img3.jpg" alt="" style="border: 1px solid black; ">
    <div align="left">
       <h2>✍️ What we use?</h2>
       <p>Some of languages and tools, that we used in our projects.</p>

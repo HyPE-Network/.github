@@ -23,7 +23,7 @@
 <br>
 <br>
 <div>
-   <img align="right" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img1.png" alt="" style="border: 1px solid black; ">
+   <img align="right" height="40%" src="https://github.com/HyPE-Network/.github/blob/master/profile/img1.png" alt="" style="border: 1px solid black; ">
    <div align="center">
       <h2>👨‍🔧 Who we are?</h2>
       <p>We are one big family, the HyPE Network project development team.</p>
@@ -41,7 +41,7 @@
 <div>
    <img align="left" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img2.jpg" alt="" style="border: 1px solid black; ">
    <div align="center">
-      <h2>🪚 What are we doing?</h2>
+      <h2>🛠 What are we doing?</h2>
       <p>We are developing various servers and services for the Minecraft Bedrock (and not only).</p>
    </div>
 </div>
@@ -62,6 +62,7 @@
       <p>Some of the languages and tools that we use in our projects.</p>
       <p>
          <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+         <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
          <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
          <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> 
          <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -72,6 +73,9 @@
          <br>
          <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
          <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+         <br>
+         <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+         <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
       </p>
    </div>
 </div>

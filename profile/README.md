@@ -23,7 +23,7 @@
 <br>
 <br>
 <div>
-   <img align="right" height="40%" src="https://github.com/HyPE-Network/.github/blob/master/profile/img1.png" alt="" style="border: 1px solid black; ">
+   <img align="right" height="300" src="https://github.com/HyPE-Network/.github/blob/master/profile/img1.png" alt="" style="border: 1px solid black; ">
    <div align="center">
       <h2>👨‍🔧 Who we are?</h2>
       <p>We are one big family, the HyPE Network project development team.</p>

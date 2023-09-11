@@ -2,17 +2,11 @@
    <img src="https://github.com/HyPE-Network/.github/blob/master/profile/logo.png" alt="logo">
    <div align="center">
       <br>
-      <a href="https://hy-pe.ru">
-      <img src="https://custom-icon-badges.demolab.com/badge/server_webpage-D1463F?style=for-the-badge&logoColor=white&logo=repo" alt="Webpage" />
-      </a>
-      <a href="https://github.com/HyPE-Network">
+       <a href="https://github.com/HyPE-Network">
       <img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=github&logoColor=white" alt="Github" />
       </a>
-      <a href="https://vk.com/hype_pe">
-      <img src="https://img.shields.io/badge/VK-0077FF?&style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
-      </a>
-      <a href="https://t.me/hype_pe">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      <a href="https://hy-pe.ru/ds">
+      <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" alt="Telegram" />
       </a>
       <div>
          <h1>👋 Hello, nice to see you here!</h1>
